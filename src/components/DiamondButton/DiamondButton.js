@@ -35,7 +35,7 @@ function DiamondButton({ handleMouseOver, handleMouseOut }) {
             countdown = setTimeout(() => {
                 setCurrentInterval((prevCount) => prevCount - 1);
             }, 1000);
-        } else if (currentInterval <= 0) {
+        } else if (currentInterval !== null && currentInterval <= 0) {
             setCurrentCount(1);
             setCurrentInterval(null);
         }
