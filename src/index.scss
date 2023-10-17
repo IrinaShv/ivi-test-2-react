@@ -1,0 +1,17 @@
+@import './_variables.scss';
+
+html {
+  color: $colorText;
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+body, body *, 
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ivi-test-2-react/static/css/main.b368a3fd.css",
+    "main.js": "/ivi-test-2-react/static/js/main.d14fafd0.js",
+    "index.html": "/ivi-test-2-react/index.html",
+    "main.b368a3fd.css.map": "/ivi-test-2-react/static/css/main.b368a3fd.css.map",
+    "main.d14fafd0.js.map": "/ivi-test-2-react/static/js/main.d14fafd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b368a3fd.css",
+    "static/js/main.d14fafd0.js"
+  ]
+}
